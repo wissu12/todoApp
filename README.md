@@ -35,8 +35,7 @@ Pour éviter les suppressions accidentelles, une confirmation est demandée avan
 
 ### Déconnexion Sécurisée :
 
-Une fois que l'utilisateur a terminé son travail, il peut se déconnecter en toute sécurité. Cette action le ramène à![Signup](https://github.com/user-attachments/assets/f4ee879e-216f-4bd3-b73c-27f34b061f9c)
- la page de connexion, garantissant que les informations restent privées et sécurisées.
+Une fois que l'utilisateur a terminé son travail, il peut se déconnecter en toute sécurité. Cette action le ramène à la page de connexion, garantissant que les informations restent privées et sécurisées.
 
 📸 Aperçu de l’Interface Utilisateur
 ### Page d’Accueil
