@@ -3,6 +3,15 @@
 Bienvenue dans le projet toDoApp ! Cette application de gestion de tâches est conçue pour vous aider à organiser et suivre vos tâches facilement. Que vous soyez en mode À faire, En cours, ou Terminé, cette application vous permet de gérer vos tâches de manière fluide et intuitive.Gestion des Tâches - toDoApp
 Bienvenue dans le projet toDoApp ! Cette application de gestion de tâches est conçue pour vous aider à organiser et suivre vos tâches facilement. Que vous soyez en mode À faire, En cours, ou Terminé, cette application vous permet de gérer vos tâches de manière fluide et intuitive.
 
+
+## Pourquoi ce choix de projet ?
+J’ai choisi de développer une application de gestion de tâches, toDoApp, pour répondre aux critères du test technique. Ce projet est conçu pour offrir une expérience utilisateur intuitive et engageante, tout en répondant à des besoins courants d’organisation personnelle et professionnelle.
+L’organisation des tâches est un besoin universel, et j’ai pensé que créer une application pratique pour cela permettrait de mettre en valeur mes compétences tant en développement back-end qu’en front-end. En utilisant React.js pour le front-end et Django pour le back-end, j’ai pu structurer une API REST qui permet de synchroniser les tâches et de gérer l'inscription,login et logout de manière fluide.
+
+## Quelques Défis et Apprentissages
+
+L’un des principaux défis de ce projet a été de travailler avec React pour la première fois. Étant habituée à utiliser Angular, j’ai trouvé ce changement stimulant, et cela m’a permis de challenge myself pour découvrir une nouvelle technologie en un temps très court. J’ai vraiment pris plaisir à me familiariser avec React et à intégrer les spécificités de sa logique et de ses composants dans le projet. Cette expérience a été enrichissante, car elle m'a permis d'élargir mes compétences en développement front-end et de m'adapter rapidement à un nouveau framework.
+
 📖 Fonctionnalités Principales
 
 ### Page d'Accueil et Authentification :
