@@ -37,6 +37,29 @@ Pour éviter les suppressions accidentelles, une confirmation est demandée avan
 
 Une fois que l'utilisateur a terminé son travail, il peut se déconnecter en toute sécurité. Cette action le ramène à la page de connexion, garantissant que les informations restent privées et sécurisées.
 
+## Conception 
+
+![MCD](https://github.com/user-attachments/assets/0261d9d3-6636-47c8-9212-1a91a89db573)
+
+Pour la conception de notre base de données, nous avons défini deux entités principales : User et Task.
+
+L’entité User représente les utilisateurs de l’application et contient les attributs suivants :
+
+id : identifiant unique de l’utilisateur.
+username : nom d’utilisateur unique.
+password : mot de passe de l’utilisateur, sécurisé.
+L’entité Task représente les tâches créées par les utilisateurs et comporte les attributs suivants :
+
+id : identifiant unique de la tâche.
+title : titre de la tâche.
+description : description détaillée de la tâche.
+start_date : date de début de la tâche.
+end_date : date de fin de la tâche.
+status : état de la tâche (à faire, en cours, terminée).
+user_id : identifiant de l’utilisateur associé à la tâche, qui établit la relation avec l’entité User.
+La relation entre User et Task est de type un-à-plusieurs. Chaque utilisateur peut avoir une ou plusieurs tâches, mais une tâche est liée à un seul utilisateur. Cette relation est représentée par la clé étrangère user_id dans l’entité Task, qui fait référence à l’attribut id de l’entité User.
+
+
 📸 Aperçu de l’Interface Utilisateur
 ### Page d’Accueil
 
@@ -70,3 +93,10 @@ Une fois que l'utilisateur a terminé son travail, il peut se déconnecter en to
 ### Suppression d’une Tâche avec Confirmation
 
 ![delete task](https://github.com/user-attachments/assets/784800aa-af72-406e-ac42-7195106f62a1)
+
+
+🛠️ Technologies Utilisées
+Front-end : React.js
+Back-end : API REST Django
+Base de Données : SQLite
+
