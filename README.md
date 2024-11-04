@@ -35,4 +35,39 @@ Pour éviter les suppressions accidentelles, une confirmation est demandée avan
 
 ### Déconnexion Sécurisée :
 
-Une fois que l'utilisateur a terminé son travail, il peut se déconnecter en toute sécurité. Cette action le ramène à la page de connexion, garantissant que les informations restent privées et sécurisées.
+Une fois que l'utilisateur a terminé son travail, il peut se déconnecter en toute sécurité. Cette action le ramène à![Signup](https://github.com/user-attachments/assets/f4ee879e-216f-4bd3-b73c-27f34b061f9c)
+ la page de connexion, garantissant que les informations restent privées et sécurisées.
+
+📸 Aperçu de l’Interface Utilisateur
+### Page d’Accueil
+
+![Page d'accueil](https://github.com/user-attachments/assets/570aa601-d954-40aa-9a0d-09aeee0f7cdc)
+
+### Page d'inscription
+
+![Signup](https://github.com/user-attachments/assets/9773aab4-da3a-4b6c-8cee-4dbf8538c37a)
+
+
+### Page de connexion
+
+![login](https://github.com/user-attachments/assets/05953b3f-da08-4deb-9c3f-f20a259907d9)
+
+
+### Liste des Tâches avec États
+
+![Liste des taches](https://github.com/user-attachments/assets/f2f90555-f1fb-44c6-9423-5b2fd346f1c7)
+
+
+### Ajout de Nouvelle Tâche
+
+![Add task](https://github.com/user-attachments/assets/82076981-7df0-496d-8ae1-dc221d653021)
+
+
+### Modification d’une Tâche
+
+![edit task](https://github.com/user-attachments/assets/f22b9fd5-3148-4486-9771-ad32eb1c66ef)
+
+
+### Suppression d’une Tâche avec Confirmation
+
+![delete task](https://github.com/user-attachments/assets/784800aa-af72-406e-ac42-7195106f62a1)
